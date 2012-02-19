@@ -1,0 +1,33 @@
+﻿@model CodingExerciseMvcApplication.Models.HomeViewModel
+
+@{
+    ViewBag.Title = "title";
+    //Layout = "_Layout";
+}
+
+<h2>Coding Exercise</h2>
+
+@using (Html.BeginForm())
+{
+    @Html.ValidationSummary(true, "Validation errors")
+    <p>Year: @Html.DropDownListFor(m => m.SelectedYear, new SelectList(Model.Years, "Id", "Label"), "please select year")
+    @Html.ValidationMessageFor(m => m.SelectedYear)
+    <input type="submit" value="Filter by year" name="submitButton"/>
+    </p>
+
+    <p>Station: @Html.DropDownListFor(m => m.SelectedStation, new SelectList(Model.Stations, "Id", "Label"), "please select station")
+     @Html.ValidationMessageFor(m => m.SelectedStation)
+      <input type="submit" value="Filter by station" name="submitButton"/>
+     </p>
+    
+    <p>Chart type: @Html.DropDownListFor(x => x.ChartType, new[] {
+                  new SelectListItem() {Text = "Bar", Value = "Bar"},
+                new SelectListItem() {Text = "Column", Value = "Column"},
+                new SelectListItem() {Text = "Line", Value = "Line"},
+                new SelectListItem() {Text = "Pie", Value = "Pie"},
+                new SelectListItem() {Text = "Stock", Value = "Stock"},
+            })
+</p>
+    <img alt="chart" src="/Home/GetChart"  />
+}
+

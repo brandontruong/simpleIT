@@ -1,0 +1,10 @@
+C:\Users\brandon\Documents\Visual Studio 2010\Projects\CodingExercise\DataProvider\bin\Debug\DataProviderLibrary.dll.config
+C:\Users\brandon\Documents\Visual Studio 2010\Projects\CodingExercise\DataProvider\bin\Debug\DataProviderLibrary.dll
+C:\Users\brandon\Documents\Visual Studio 2010\Projects\CodingExercise\DataProvider\bin\Debug\DataProviderLibrary.pdb
+C:\Users\brandon\Documents\Visual Studio 2010\Projects\CodingExercise\DataProvider\bin\Debug\Newtonsoft.Json.dll
+C:\Users\brandon\Documents\Visual Studio 2010\Projects\CodingExercise\DataProvider\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\brandon\Documents\Visual Studio 2010\Projects\CodingExercise\DataProvider\bin\Debug\Newtonsoft.Json.xml
+C:\Users\brandon\Documents\Visual Studio 2010\Projects\CodingExercise\DataProvider\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\brandon\Documents\Visual Studio 2010\Projects\CodingExercise\DataProvider\obj\Debug\DataProviderLibrary.g.resources
+C:\Users\brandon\Documents\Visual Studio 2010\Projects\CodingExercise\DataProvider\obj\Debug\DataProviderLibrary.dll
+C:\Users\brandon\Documents\Visual Studio 2010\Projects\CodingExercise\DataProvider\obj\Debug\DataProviderLibrary.pdb

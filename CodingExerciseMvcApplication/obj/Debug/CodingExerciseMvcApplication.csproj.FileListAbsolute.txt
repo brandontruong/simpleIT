@@ -1,0 +1,13 @@
+C:\Users\brandon\Documents\Visual Studio 2010\Projects\CodingExercise\CodingExerciseMvcApplication\bin\CodingExerciseMvcApplication.dll
+C:\Users\brandon\Documents\Visual Studio 2010\Projects\CodingExercise\CodingExerciseMvcApplication\bin\CodingExerciseMvcApplication.pdb
+C:\Users\brandon\Documents\Visual Studio 2010\Projects\CodingExercise\CodingExerciseMvcApplication\bin\DataProviderLibrary.dll
+C:\Users\brandon\Documents\Visual Studio 2010\Projects\CodingExercise\CodingExerciseMvcApplication\bin\EntityFramework.dll
+C:\Users\brandon\Documents\Visual Studio 2010\Projects\CodingExercise\CodingExerciseMvcApplication\bin\Microsoft.Web.Helpers.dll
+C:\Users\brandon\Documents\Visual Studio 2010\Projects\CodingExercise\CodingExerciseMvcApplication\bin\Newtonsoft.Json.dll
+C:\Users\brandon\Documents\Visual Studio 2010\Projects\CodingExercise\CodingExerciseMvcApplication\bin\DataProviderLibrary.pdb
+C:\Users\brandon\Documents\Visual Studio 2010\Projects\CodingExercise\CodingExerciseMvcApplication\bin\EntityFramework.xml
+C:\Users\brandon\Documents\Visual Studio 2010\Projects\CodingExercise\CodingExerciseMvcApplication\bin\Newtonsoft.Json.pdb
+C:\Users\brandon\Documents\Visual Studio 2010\Projects\CodingExercise\CodingExerciseMvcApplication\bin\Newtonsoft.Json.xml
+C:\Users\brandon\Documents\Visual Studio 2010\Projects\CodingExercise\CodingExerciseMvcApplication\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\brandon\Documents\Visual Studio 2010\Projects\CodingExercise\CodingExerciseMvcApplication\obj\Debug\CodingExerciseMvcApplication.dll
+C:\Users\brandon\Documents\Visual Studio 2010\Projects\CodingExercise\CodingExerciseMvcApplication\obj\Debug\CodingExerciseMvcApplication.pdb
